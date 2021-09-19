@@ -23,3 +23,4 @@ model = Perceptron(eta=ETA, epochs=EPOCHS)
 model.fit(X, y)
 
 _ = model.total_loss()
+#final model 
